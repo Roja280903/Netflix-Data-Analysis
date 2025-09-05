@@ -1,9 +1,9 @@
 # Netflix-Data-Analysis
-📊 Netflix Data Analysis
+# 📊 Netflix Data Analysis
 
 This project focuses on analyzing Netflix data to gain insights into movies and TV shows available on the platform. The dataset contains metadata about titles, including their release date, popularity, ratings, genres, and more.
 
-📂 Dataset Features
+# 📂 Dataset Features
 
 The dataset includes the following columns:
 
@@ -25,7 +25,7 @@ Genre → Genre(s) associated with the title (Drama, Action, Comedy, etc.).
 
 Poster_Url → URL link to the official poster of the title.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Explore and clean the dataset.
 
@@ -37,7 +37,7 @@ Compare how ratings and votes vary across languages and genres.
 
 Build insights for recommendations or user preferences.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python → Data analysis and visualization.
 
@@ -47,7 +47,7 @@ Matplotlib, Seaborn, Plotly → Visualization of insights.
 
 Jupyter Notebook / Google Colab → Interactive analysis.
 
-📊 Example Analysis
+# 📊 Example Analysis
 
 Most popular genres on Netflix.
 
@@ -57,7 +57,7 @@ Year-wise trend of title releases.
 
 Correlation between popularity, vote count, and ratings.
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone the repository:
 
@@ -77,7 +77,7 @@ jupyter notebook
 
 Run the analysis notebook to reproduce results.
 
-📈 Visualizations
+# 📈 Visualizations
 
 Some of the visual insights include:
 
@@ -89,7 +89,7 @@ Heatmaps showing correlation between features.
 
 Interactive plots for exploration.
 
-📌 Future Work
+# 📌 Future Work
 
 Implement recommendation system based on user preferences.
 
